@@ -1,0 +1,7 @@
+Text:[hej,tja,elefant,sen]|MoreAccountInfo:[PropOne:test,PropTwo:bred,PropThree:halle,MoreText:[kille,tjej,trans]]|Name:Alfons|Id:b8bc7edd-40d7-470d-9fdc-35ea200f20c3|Cash:20030|
+Text:[hej,tja,elefant,sen]|MoreAccountInfo:[PropOne:test,PropTwo:bred,PropThree:halle,MoreText:[kille,tjej,trans]]|Name:Jennie|Id:95ef8b28-891a-4e3f-b4ce-f49e803bf1fa|Cash:20030|
+Text:[hej,tja,elefant,sen]|MoreAccountInfo:[PropOne:test,PropTwo:bred,PropThree:halle,MoreText:[kille,tjej,trans]]|Name:Erik|Id:a1a16060-6ba7-47b7-8665-def76a89e5c7|Cash:560030|
+Text:[hej,tja,elefant,sen]|MoreAccountInfo:[PropOne:test,PropTwo:bred,PropThree:halle,MoreText:[kille,tjej,trans]]|Name:Jonas|Id:050cb700-62b8-4e58-8469-2eb902eeca1a|Cash:287030|
+Text:[hej,tja,elefant,sen]|MoreAccountInfo:[PropOne:test,PropTwo:bred,PropThree:halle,MoreText:[kille,tjej,trans]]|Name:Eva|Id:57d2cc75-c199-40c4-92d3-88781d6be236|Cash:20080|
+Text:[hej,tja,elefant,sen]|MoreAccountInfo:[PropOne:test,PropTwo:bred,PropThree:halle,MoreText:[kille,tjej,trans]]|Name:Carl-jan|Id:27fce256-f1f8-4c94-9a01-2e416b41c6ba|Cash:2003450|
+Text:[hej,tja,elefant,sen]|MoreAccountInfo:[PropOne:test,PropTwo:bred,PropThree:halle,MoreText:[kille,tjej,trans]]|Name:Eva|Id:e903fc57-bf25-407a-b92d-8497a76081c4|Cash:21240|
